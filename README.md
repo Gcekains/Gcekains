@@ -8,6 +8,7 @@ A new Flutter project.
 - install the app
 - upload resume
 - add job description 
+- click submit
 
 ### Requirements for running project:
 - android studio
